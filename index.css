@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #1C254A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3{
+    font-size: 40px;
+    text-align: center;
+    color: #EEEEEE;
+}
+
+.counter{
+    width: 155px;
+    height: 120px;
+    background-color: #080001;
+    border-radius: 5px;
+}
+
+h1{
+    font-family: "Cursed Timer ULiL";
+    font-size: 90px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 126.67px;
+    color: #F94F6D;
+}
+
+.value-btn{
+    margin-top: 30px    
+}
+
+button{
+    font-family: "Cursed Timer ULiL";
+    background-color: transparent;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #9AABD8;
+    padding: 10px 14px;
+    
+}
